@@ -1,0 +1,9 @@
+libcasm-global==2.0.4
+libcasm-xtal==2.0a9
+libcasm-composition==2.0a2
+libcasm-clexulator==2.0a4
+libcasm-configuration==2.0a3
+libcasm-monte==2.0a1
+numpy==1.26.0
+notebook==7.2.*
+bokeh==3.4.*
