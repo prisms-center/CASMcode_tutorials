@@ -1,0 +1,2356 @@
+[
+  {
+    "dof": {
+      "occ": [0, 0]
+    },
+    "supercell_name": "SCEL1_1_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 0],
+      [0, 1, 0],
+      [0, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0]
+    },
+    "supercell_name": "SCEL1_1_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 0],
+      [0, 1, 0],
+      [0, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1]
+    },
+    "supercell_name": "SCEL1_1_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 0],
+      [0, 1, 0],
+      [0, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_1_1",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 1],
+      [0, 1, 1],
+      [-1, -1, 0]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_1_1",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 1],
+      [0, 1, 1],
+      [-1, -1, 0]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_1_1",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 1],
+      [0, 1, 1],
+      [-1, -1, 0]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_1_1",
+    "transformation_matrix_to_supercell": [
+      [1, 0, 1],
+      [0, 1, 1],
+      [-1, -1, 0]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_0_1",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -1],
+      [0, 1, -1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_0_1",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -1],
+      [0, 1, -1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL2_2_1_1_0_0_1",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -1],
+      [0, 1, -1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [0, -1, 1],
+      [1, 0, 1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 0],
+      [0, -1, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL3_3_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [-1, 0, 2],
+      [1, 0, 1],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_0",
+    "transformation_matrix_to_supercell": [
+      [0, 0, 4],
+      [1, 0, -1],
+      [0, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [0, 1, 2],
+      [1, -1, 0],
+      [0, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_2",
+    "transformation_matrix_to_supercell": [
+      [0, 2, 0],
+      [0, -1, 2],
+      [1, -1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_0_3",
+    "transformation_matrix_to_supercell": [
+      [0, -1, -2],
+      [0, 1, -2],
+      [1, 0, 2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_4_1_1_0_2_1",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -2]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 1]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 1]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 1, 1, 1]
+    },
+    "supercell_name": "SCEL4_2_2_1_0_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, -1],
+      [0, 0, 2],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 0, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 0, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 0, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 0, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 0, 0, 1, 0, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 0, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  },
+  {
+    "dof": {
+      "occ": [1, 1, 1, 1, 1, 1, 1, 0]
+    },
+    "supercell_name": "SCEL4_2_2_1_1_1_0",
+    "transformation_matrix_to_supercell": [
+      [-1, 1, 1],
+      [1, -1, 1],
+      [1, 1, -1]
+    ]
+  }
+]

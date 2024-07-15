@@ -1,0 +1,1 @@
+{"lattice_vectors": [[0.0, 2.73429462, 2.73429462], [2.73429462, 0.0, 2.73429462], [2.73429462, 2.73429462, 0.0]], "atom_type": ["Si", "Si"], "atom_coords": [[0.0, 0.0, 0.0], [0.25, 0.25, 0.25]], "coordinate_mode": "direct", "atom_properties": {"force": {"value": [[-0.0, -0.0, 0.0], [0.0, 0.0, -0.0]]}}, "global_properties": {"energy": {"value": -10.84964713}}}

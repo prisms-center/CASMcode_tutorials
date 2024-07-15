@@ -1,0 +1,251 @@
+I ran on:
+node7
+node7
+node7
+node7
+node7
+node7
+node7
+node7
+Construct a casm.vaspwrapper.Relax instance:
+  Input directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11
+  Configuration: SCEL4_4_1_1_0_1_0/11
+  Reading CASM settings
+  Calculations directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default
+  Reading relax.json settings file
+  Read settings from: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/relax.json
+  DONE
+
+Constructing a VASP Relax object
+  Relax directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default
+VASP Relax object constructed
+
+Setting up VASP input files: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default
+  Reading KPOINTS: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/KPOINTS
+  Reading KPOINTS reference POSCAR: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/POSCAR
+  Reading SPECIES: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/SPECIES
+  Reading supercell POS: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/POS
+  Reading INCAR: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/INCAR
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+  Generating supercell KPOINTS
+  Writing supercell POSCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/POSCAR
+  Writing INCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/INCAR
+  Writing supercell KPOINTS: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/KPOINTS
+  Writing POTCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/POTCAR
+  DONE
+
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/status.json
+Begin VASP relaxation run
+
+++  status: incomplete   next task: setup
+Moving files into initial run directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.0
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.0
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (OUTCAR): 21.1275875568  seconds ago.
+Most recent file output (std.out): 11.202545166  seconds ago.
+Most recent file output (std.out): 11.2804722786  seconds ago.
+Most recent file output (std.out): 11.3530182838  seconds ago.
+Most recent file output (std.out): 1.41576528549  seconds ago.
+Most recent file output (vasprun.xml): 0.000972270965576  seconds ago.
+Most recent file output (vasprun.xml): 0.00137519836426  seconds ago.
+Most recent file output (OUTCAR): 31.7197902203  seconds ago.
+Most recent file output (std.out): 11.8015992641  seconds ago.
+Most recent file output (vasprun.xml): 0.000946283340454  seconds ago.
+Most recent file output (OUTCAR): 26.9693155289  seconds ago.
+Most recent file output (std.out): 17.0545127392  seconds ago.
+Most recent file output (std.out): 2.14180707932  seconds ago.
+Most recent file output (vasprun.xml): 0.00124669075012  seconds ago.
+Most recent file output (vasprun.xml): 0.00163841247559  seconds ago.
+Most recent file output (OUTCAR): -0.0210161209106  seconds ago.
+Most recent file output (OUTCAR): 0.00144457817078  seconds ago.
+Most recent file output (OSZICAR): 60.1609635353  seconds ago.
+Most recent file output (OUTCAR): 0.00184845924377  seconds ago.
+Most recent file output (OUTCAR): 0.00195479393005  seconds ago.
+Most recent file output (OUTCAR): 0.00153398513794  seconds ago.
+Most recent file output (OUTCAR): 13.4356081486  seconds ago.
+Most recent file output (std.out): 3.60877084732  seconds ago.
+Most recent file output (OUTCAR): 0.00147175788879  seconds ago.
+Most recent file output (OUTCAR): -0.019672870636  seconds ago.
+Most recent file output (vasprun.xml): 0.000922441482544  seconds ago.
+Most recent file output (vasprun.xml): 0.00164413452148  seconds ago.
+Most recent file output (std.out): 24.6825845242  seconds ago.
+Most recent file output (OUTCAR): 0.00202441215515  seconds ago.
+Most recent file output (vasprun.xml): 0.00138092041016  seconds ago.
+Most recent file output (OUTCAR): 25.3751819134  seconds ago.
+Most recent file output (std.out): 0.603814601898  seconds ago.
+Most recent file output (vasprun.xml): 0.00110554695129  seconds ago.
+Most recent file output (OUTCAR): 16.0825042725  seconds ago.
+Most recent file output (std.out): 16.3073289394  seconds ago.
+Most recent file output (vasprun.xml): 0.00115871429443  seconds ago.
+Most recent file output (vasprun.xml): 26.8450989723  seconds ago.
+Most recent file output (std.out): 2.15308475494  seconds ago.
+Most recent file output (OUTCAR): 0.00191164016724  seconds ago.
+Most recent file output (OUTCAR): 27.7757627964  seconds ago.
+Most recent file output (OUTCAR): 18.076018095  seconds ago.
+Most recent file output (OUTCAR): 0.00143432617188  seconds ago.
+Most recent file output (OUTCAR): 0.00112152099609  seconds ago.
+Most recent file output (std.out): 4.01951289177  seconds ago.
+Most recent file output (std.out): 14.3395545483  seconds ago.
+Most recent file output (OUTCAR): 0.000939846038818  seconds ago.
+Most recent file output (vasprun.xml): 23.6964678764  seconds ago.
+Most recent file output (std.out): 4.06354498863  seconds ago.
+Most recent file output (OUTCAR): 0.0022087097168  seconds ago.
+Most recent file output (OUTCAR): 60.3875808716  seconds ago.
+Most recent file output (std.out): 20.216397047  seconds ago.
+Most recent file output (std.out): 0.608852624893  seconds ago.
+Most recent file output (vasprun.xml): 0.00135350227356  seconds ago.
+Most recent file output (OUTCAR): 0.000211477279663  seconds ago.
+Most recent file output (vasprun.xml): 0.000517845153809  seconds ago.
+Most recent file output (OUTCAR): 0.00175833702087  seconds ago.
+Most recent file output (OUTCAR): 22.7580308914  seconds ago.
+Most recent file output (std.out): 13.202085495  seconds ago.
+Most recent file output (vasprun.xml): -0.0112977027893  seconds ago.
+Most recent file output (OUTCAR): 0.000648498535156  seconds ago.
+Most recent file output (OUTCAR): 0.00188064575195  seconds ago.
+Most recent file output (OSZICAR): 0.00146174430847  seconds ago.
+Most recent file output (OSZICAR): 60.5250697136  seconds ago.
+Most recent file output (std.out): 6.11592197418  seconds ago.
+Most recent file output (vasprun.xml): 0.000711679458618  seconds ago.
+Most recent file output (OUTCAR): 0.00136971473694  seconds ago.
+Most recent file output (OUTCAR): 17.722659111  seconds ago.
+Most recent file output (std.out): 8.24248027802  seconds ago.
+Most recent file output (OSZICAR): 0.000697374343872  seconds ago.
+Most recent file output (OSZICAR): 60.6090195179  seconds ago.
+Most recent file output (std.out): 9.96005892754  seconds ago.
+Most recent file output (OUTCAR): 0.000732421875  seconds ago.
+Most recent file output (vasprun.xml): 0.00172138214111  seconds ago.
+Most recent file output (OUTCAR): 0.00196886062622  seconds ago.
+Most recent file output (OUTCAR): 7.39232778549  seconds ago.
+Most recent file output (OUTCAR): 0.000970840454102  seconds ago.
+Most recent file output (OUTCAR): -6.89029693604e-05  seconds ago.
+Most recent file output (std.out): 4.26301646233  seconds ago.
+Most recent file output (OUTCAR): 0.00119614601135  seconds ago.
+Most recent file output (OUTCAR): 0.00117468833923  seconds ago.
+Most recent file output (OUTCAR): 21.2625010014  seconds ago.
+Most recent file output (std.out): 1.93350887299  seconds ago.
+Most recent file output (OUTCAR): 0.00106883049011  seconds ago.
+Most recent file output (OUTCAR): 0.00107073783875  seconds ago.
+Most recent file output (OUTCAR): -0.000975608825684  seconds ago.
+Most recent file output (vasprun.xml): 0.0016667842865  seconds ago.
+Most recent file output (vasprun.xml): 0.00148630142212  seconds ago.
+Most recent file output (OUTCAR): 21.1612071991  seconds ago.
+Most recent file output (std.out): 11.8918941021  seconds ago.
+Most recent file output (OUTCAR): 0.00161361694336  seconds ago.
+Most recent file output (OUTCAR): 3.38711500168  seconds ago.
+Most recent file output (vasprun.xml): 9.20187759399  seconds ago.
+Most recent file output (OUTCAR): 0.000885725021362  seconds ago.
+Most recent file output (OUTCAR): 0.843676328659  seconds ago.
+Run complete
+Most recent file output (DOSCAR): 1.6338493824  seconds ago.
+outcar.complete: True
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: incomplete   next task: relax
+Continue VASP job:
+  Original: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.0
+  Continuation: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.1
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: INCAR KPOINTS 
+  rm: 
+ gzip: 
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.1
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (OUTCAR): 19.2275583744  seconds ago.
+Most recent file output (std.out): 14.2901220322  seconds ago.
+Most recent file output (std.out): 14.3562030792  seconds ago.
+Most recent file output (std.out): 9.41925191879  seconds ago.
+Most recent file output (OUTCAR): 0.000217437744141  seconds ago.
+Most recent file output (vasprun.xml): -2.02655792236e-05  seconds ago.
+Most recent file output (OUTCAR): -0.00106620788574  seconds ago.
+Most recent file output (OUTCAR): 14.7672057152  seconds ago.
+Most recent file output (std.out): 9.85245704651  seconds ago.
+Most recent file output (OUTCAR): 0.00122928619385  seconds ago.
+Most recent file output (OUTCAR): 60.085034132  seconds ago.
+Most recent file output (std.out): 20.1278450489  seconds ago.
+Most recent file output (std.out): 0.220228910446  seconds ago.
+Most recent file output (vasprun.xml): 0.000412464141846  seconds ago.
+Most recent file output (OUTCAR): 0.000918388366699  seconds ago.
+Most recent file output (OUTCAR): 0.000497579574585  seconds ago.
+Most recent file output (OSZICAR): 0.000765800476074  seconds ago.
+Most recent file output (vasprun.xml): 0.0012948513031  seconds ago.
+Most recent file output (std.out): 26.005866766  seconds ago.
+Most recent file output (std.out): 6.1736638546  seconds ago.
+Most recent file output (OUTCAR): 16.3322138786  seconds ago.
+Most recent file output (vasprun.xml): 21.5684919357  seconds ago.
+Most recent file output (OUTCAR): -0.00027871131897  seconds ago.
+Run complete
+Most recent file output (DOSCAR): 0.601980924606  seconds ago.
+outcar.complete: True
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: incomplete   next task: constant
+Continue VASP job:
+  Original: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.1
+  Continuation: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.2
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: INCAR KPOINTS 
+  rm: 
+ gzip: 
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+  Set INCAR tags: {'IBRION': -1, 'ISIF': 2, 'NSW': 0, 'SYSTEM': 'final', 'ISMEAR': -5} 
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.2
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (OUTCAR): 17.9103343487  seconds ago.
+Most recent file output (std.out): 12.9754812717  seconds ago.
+Most recent file output (std.out): 13.0409319401  seconds ago.
+Most recent file output (std.out): 8.10979914665  seconds ago.
+Most recent file output (OUTCAR): 0.00117230415344  seconds ago.
+Most recent file output (vasprun.xml): 0.000802040100098  seconds ago.
+Most recent file output (vasprun.xml): 60.0877771378  seconds ago.
+Most recent file output (std.out): 18.4338748455  seconds ago.
+Most recent file output (OUTCAR): 0.000727415084839  seconds ago.
+Most recent file output (OUTCAR): -5.48362731934e-05  seconds ago.
+Most recent file output (std.out): 23.7049534321  seconds ago.
+Most recent file output (OUTCAR): 0.000697612762451  seconds ago.
+Most recent file output (OUTCAR): 0.00105857849121  seconds ago.
+Most recent file output (std.out): 23.9806807041  seconds ago.
+Most recent file output (OUTCAR): 0.000775098800659  seconds ago.
+Most recent file output (OUTCAR): 0.000735759735107  seconds ago.
+Most recent file output (vasprun.xml): 8.27312469482e-05  seconds ago.
+Run complete
+Most recent file output (std.out): 4.63184022903  seconds ago.
+outcar.complete: True
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: complete   next task: None
+mv run.2 run.final
+Complete VASP job: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/run.final
+  rm: 
+ gzip: 
+
+Constructing a VASP Relax object
+  Relax directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default
+VASP Relax object constructed
+
+{'Ge': [0, 1, 2, 3], 'Si': [4, 5, 6, 7]}
+[0, 1, 2, 3, 4, 5, 6, 7]
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/properties.calc.json
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_4_1_1_0_1_0/11/calctype.default/status.json

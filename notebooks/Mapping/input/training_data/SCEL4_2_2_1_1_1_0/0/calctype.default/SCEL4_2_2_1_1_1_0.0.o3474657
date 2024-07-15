@@ -1,0 +1,130 @@
+I ran on:
+node103
+node103
+node103
+node103
+node103
+node103
+node103
+node103
+Construct a casm.vaspwrapper.Relax instance:
+  Input directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0
+  Configuration: SCEL4_2_2_1_1_1_0/0
+  Reading CASM settings
+  Calculations directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default
+  Reading relax.json settings file
+  Read settings from: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/relax.json
+  DONE
+
+Constructing a VASP Relax object
+  Relax directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default
+VASP Relax object constructed
+
+Setting up VASP input files: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default
+  Reading KPOINTS: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/KPOINTS
+  Reading KPOINTS reference POSCAR: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/POSCAR
+  Reading SPECIES: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/SPECIES
+  Reading supercell POS: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/POS
+  Reading INCAR: /home/johnct/SiGeSn/SiGe/training_data/settings/calctype.default/INCAR
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+  Generating supercell KPOINTS
+  Writing supercell POSCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/POSCAR
+  Writing INCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/INCAR
+  Writing supercell KPOINTS: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/KPOINTS
+  Writing POTCAR: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/POTCAR
+  DONE
+
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/status.json
+Begin VASP relaxation run
+
+++  status: incomplete   next task: setup
+Moving files into initial run directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.0
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.0
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (vasprun.xml): -0.00164437294006  seconds ago.
+Most recent file output (OUTCAR): -0.00130319595337  seconds ago.
+Most recent file output (OUTCAR): -0.00166273117065  seconds ago.
+Most recent file output (vasprun.xml): -0.00227785110474  seconds ago.
+Most recent file output (OUTCAR): -0.00231742858887  seconds ago.
+Most recent file output (OUTCAR): -0.00181722640991  seconds ago.
+Most recent file output (vasprun.xml): -0.00233459472656  seconds ago.
+Most recent file output (OUTCAR): -0.0026490688324  seconds ago.
+Most recent file output (vasprun.xml): -0.00183820724487  seconds ago.
+Most recent file output (vasprun.xml): -0.0015823841095  seconds ago.
+Run complete
+Most recent file output (DOSCAR): 3.24435448647  seconds ago.
+outcar.complete: True
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: incomplete   next task: relax
+Continue VASP job:
+  Original: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.0
+  Continuation: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.1
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: INCAR KPOINTS 
+  rm: 
+ gzip: 
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.1
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (vasprun.xml): -0.00168895721436  seconds ago.
+Most recent file output (OUTCAR): -0.00230264663696  seconds ago.
+Most recent file output (OUTCAR): -0.00179266929626  seconds ago.
+Run complete
+Most recent file output (DOSCAR): 2.9013903141  seconds ago.
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: incomplete   next task: constant
+Continue VASP job:
+  Original: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.1
+  Continuation: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.2
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: INCAR KPOINTS 
+  rm: 
+ gzip: 
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+  Set INCAR tags: {'IBRION': -1, 'ISIF': 2, 'NSW': 0, 'SYSTEM': 'final', 'ISMEAR': -5} 
+
+Begin vasp run:
+  jobdir: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.2
+  exec: /home/johnct/bin/vasp.5.3.mpi-nogamma
+Most recent file output (OUTCAR): -0.00194430351257  seconds ago.
+Most recent file output (vasprun.xml): -0.00219583511353  seconds ago.
+Run complete
+Most recent file output (OUTCAR): 1.93628144264  seconds ago.
+
+
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+Warning: unknown INCAR tag 'ISPIND' with value '1'
+
+++  status: complete   next task: None
+mv run.2 run.final
+Complete VASP job: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/run.final
+  rm: 
+ gzip: 
+
+Constructing a VASP Relax object
+  Relax directory: /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default
+VASP Relax object constructed
+
+{'Ge': [0], 'Si': [1, 2, 3, 4, 5, 6, 7]}
+[0, 1, 2, 3, 4, 5, 6, 7]
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/properties.calc.json
+Wrote /home/johnct/SiGeSn/SiGe/training_data/SCEL4_2_2_1_1_1_0/0/calctype.default/status.json

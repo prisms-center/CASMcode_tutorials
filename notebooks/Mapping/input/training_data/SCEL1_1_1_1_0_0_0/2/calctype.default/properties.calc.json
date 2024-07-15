@@ -1,0 +1,1 @@
+{"lattice_vectors": [[0.0, 2.87447722, 2.87447722], [2.87447722, 0.0, 2.87447722], [2.87447722, 2.87447722, 0.0]], "atom_type": ["Ge", "Ge"], "atom_coords": [[0.0, 0.0, 0.0], [0.25, 0.25, 0.25]], "coordinate_mode": "direct", "atom_properties": {"force": {"value": [[-0.0, -0.0, -0.0], [0.0, 0.0, 0.0]]}}, "global_properties": {"energy": {"value": -9.03552685}}}
