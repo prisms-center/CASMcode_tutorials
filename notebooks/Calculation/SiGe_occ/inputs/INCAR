@@ -1,0 +1,48 @@
+SYSTEM = SiGe
+#---------------------
+#General system params
+#---------------------
+LREAL = Auto
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+ADDGRID = .TRUE.
+
+#----------------------
+# Manetic stuff 
+#----------------------
+ISPIN = 1
+
+#-----------------
+# XC stuff
+#----------------
+LASPH = .TRUE.
+
+#------------------
+# Electronic relax
+#-----------------
+ENCUT = 400
+PREC = Accurate
+EDIFF = 1e-5
+NELM = 120
+NELMIN = 5
+ALGO = Normal
+
+#-----------------
+# Ionic stuff
+#----------------
+IBRION = 2
+NSW = 60
+ISIF = 3
+EDIFFG = -0.02
+
+#----------------
+# DOS stuff
+#---------------
+ISMEAR = 0
+SIGMA = 0.2
+
+#---------------
+# Parallel stuff
+#----------------
+NCORE = 4
+

@@ -1,0 +1,4 @@
+POTCAR_DIR_PATH = /home/johnct/PP/
+SPECIES    ALIAS    POTCAR  POTCAR_location
+Ge          Ge       1       Ge_d
+Si          Si       1       Si

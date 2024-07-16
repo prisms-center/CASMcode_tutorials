@@ -1,0 +1,9 @@
+{
+  "queue":"batch",
+  "walltime":"32:00:00",
+  "email":"me@myplace.edu",
+  "ppn":"8",
+  "atom_per_proc":"4",
+  "priority":1,
+  "vasp_cmd":"vasp-5.3"
+}
