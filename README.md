@@ -15,6 +15,7 @@ Install:
 
     git clone https://github.com/prisms-center/CASMcode_tutorials.git
     cd CASMcode_tutorials
+    git checkout 2.0a1
     pip install -r requirements.txt
 
 
